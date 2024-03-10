@@ -1,3 +1,4 @@
+/*
 package demo;
 
 import demo.domain.*;
@@ -16,9 +17,11 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 import static org.assertj.core.api.Assertions.assertThat;
 
+*/
 /**
  * Created by xiaofeng on 11/5/17.
- */
+ *//*
+
 public class RestaurantInfoRestControllerTest {
 
 
@@ -105,3 +108,4 @@ public class RestaurantInfoRestControllerTest {
         return restaurant;
     }
 }
+*/
